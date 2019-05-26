@@ -9,4 +9,5 @@ Authors of this project are Savannah Alphonso, Ismail Marashi, Ishaq Marashy (my
 
 Roles:
 Ishaq and Ismail are responsible for applying developement decisions given by savannah alphonso.
-Ishaq and Ismail did all of backend, front end as well as styling.
+Ishaq and Ismail did most of documentation, backend, front end as well as styling.
+Savannah has done design decisions and some documentation.
