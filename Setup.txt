@@ -3,4 +3,10 @@ https://www.apachefriends.org/index.html I used ver 7.3.5
 launch xampp and click on actions the start the apache and sql server.
 launch the shell and create a mysql user by typing "mysql -u root" this creates a user with no password,
 then in the same shell type "source directory/of/fooddb.sql" this will create tables and insert demo data into the database.
-xampp by default will host the server on local host you can go there by typing "127.0.0.1/index.html" into your browser
+xampp by default will host the server on local host you can go there by typing "127.0.0.1/index.html" into your browser.
+
+Authors of this project are Savannah Alphonso, Ismail Marashi, Ishaq Marashy (myself).
+
+Roles:
+Ishaq and Ismail are responsible for applying developement decisions given by savannah alphonso.
+Ishaq and Ismail did all of backend, front end as well as styling.
